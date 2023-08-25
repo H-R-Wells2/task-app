@@ -14,6 +14,11 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 ## Environment Variables
 There are different variables for client and server
 
+#### you can use this api token in `.env` for testing
+```
+64e8520399cf45b15fdf5ec6
+```
+
 In client folder
 Inside the `client` folder, you can set environment-specific variables in a `.env` file. Create a `.env.development` file for development settings and a `.env.production` file for production settings. Define your environment variables in these files.
 
