@@ -33,7 +33,7 @@ api token you can get from mockapi.io
 5. copy api token and paste in `.env` file
 
 
-Inside the `server` folder, you can set environment-specific variables in a `.env` file. Create a `.env.development` file for development settings and a `.env.production` file for production settings. Define your environment variables in these files.
+Inside the `server` folder, you can set environment variables in a `.env` file.
 ```
 PORT=
 ```

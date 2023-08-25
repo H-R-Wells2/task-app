@@ -1,5 +1,3 @@
-
-
 git pull origin main
 
 cd client
@@ -9,4 +7,4 @@ npm run build
 cd ../server
 npm install
 
-npx nodemon index.json
+node index.js
